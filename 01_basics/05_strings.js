@@ -35,33 +35,3 @@ console.log(url.includes('vaibhav'))
 console.log(gameName.split('-'));
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
